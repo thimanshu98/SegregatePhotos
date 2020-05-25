@@ -1,2 +1,0 @@
-# SegregatePhotos
-T
